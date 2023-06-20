@@ -1,0 +1,19 @@
+<!--
+    Login page 
+    signup page 
+    div 
+    form 
+    table
+    navbar 
+    content area
+    footer
+
+
+Age: <input type="number" size="6" name="age" min="18"
+max="99" value="21"><br> y Satisfaction: <input type="range" size="2"
+ name="satisfaction" min="1"
+ max="5" value="3">
+
+
+
+ 

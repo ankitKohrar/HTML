@@ -1,0 +1,26 @@
+<!--<table bgcolor="yellow" height="300" width="500" Border="2" Bordercolor="red">
+ <caption> Use of Verticle Alignment Attribute of Table</caption> <tr>
+
+<td valign="Top">botom Align content</td>
+
+<td valign="Center">Center Align content</td> <td valign="Bottom">Bottom Align content</td> </tr>
+
+</table>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section>
+        <div class="main">
+            <div class="gallery">
+                <img src="C:\Users\acer\Downloads\IMG20230502081307.jpg">
+            </div>
+        </div>
+        
+</body>
+</html>

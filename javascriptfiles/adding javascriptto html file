@@ -1,0 +1,44 @@
+<!---<!doctype HTML>
+<html>
+    <head>
+        <yitle> EXAMPLE OF JACVASCRIPT INSIDE HEAD TAG<TITLE>
+            <SCRIPT>
+                function MYFUNCTION()
+                {
+                    <Document class="getElementById('text').innerHTML="text";
+                
+            </SCRIPT>
+            </head>
+            <body>
+                --->
+
+<!DOCTYPE html>
+ <html>
+
+ <head>
+<style> </style>
+</head>
+<body>
+
+
+<h1>Enter your age</h1>
+<input id="getData">
+<button onclick="myFun()">Show Data</button>
+<span id="showData"></span>
+
+<script>
+function myFun(){
+var gData = document.getElementById("getData").value;
+
+var msg = gData>=18? "you can vote":"You can not vote"; 
+var msg
+
+document.getElementById("showData").innerHTML=msg;
+
+
+}
+ </script>
+
+ </body>|
+
+ </html>

@@ -1,0 +1,126 @@
+
+
+<!---
+<html>
+<head>
+<style>
+</style>
+ </head>
+<body>
+
+<script>
+
+var a ={first_name: "Shivang",
+last_name : "Tiwari", gender: "Male",
+course: "0 Level",
+code: 1234};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+
+var p = "First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last name+"<br>"+
+"Gender: "+a.gender+"<br>"+
+"Course: "+a.course+"<br>"+
+//-->
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<style>
+
+</style>
+</head>
+<body>
+<script>
+
+var a ={first_name: "Shivang",
+last_name : "Tiwari",
+gender: "Male",
+course: "0 Level",
+code: 1234};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+document.write(p);
+var a ={first_name: "Shikha",
+last_name : "Srivastava",
+gender: "female",
+course: "DCA",
+code: 6942};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+document.write(p);
+var a ={first_name: "ShiVAM",
+last_name : "Tiwari",
+gender: "Male",
+course: "0 Level",
+code: 1244};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+var a ={first_name: "Ankit",
+last_name : "Mishra",
+gender: "Male",
+course: "0 Level",
+code: 4301};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+document.write(p);
+var a ={first_name: "Shivansha",
+last_name : "Tiwari",
+gender: "Male",
+course: "ADCA",
+code: 7685};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+document.write(p);
+document.write(p);
+var a ={first_name: "Swati",
+last_name : "Tiwari",
+gender: "Male",
+course: "O Level",
+code: 1234};
+
+
+// var b = ""+a+"<br>"+typeof(a);
+var p ="First Name :"+a.first_name+"<br>"+
+"Last Name : "+a.last_name+"<br>"+
+"Gender : "+a.gender+"<br>"+ "Course : "+a.course+"<br>"+
+"Code :"+a.code;
+document.write(p);
+
+</script>
+
+</body>
+
+</html> 
+
+
+        
+

@@ -1,0 +1,111 @@
+<!--<DOCTYPE html>
+
+ <html>
+    <body>
+
+   <h2>Radio Buttons</h2>
+   <p>The <strong>input type="radio"</strong> defines a radio button:</p>
+   <form action="/action.asp">
+   <input type="radio" name="grade" value="First" checked> First<br>
+
+   <input type="radio" name="grade" value="Second"> Second<br> 
+
+   <input type="radio" name="grade" value="third"> third<br> 
+
+   <input type="radio" name="grade" value="Fail"> Fail<br><br>
+
+   <input type="submit">
+
+   </form>
+   </body> 
+   </html> -->
+
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+   </head>
+   <style>
+      ul li{
+         display: block;
+         float: left;
+      }
+      li ul{
+         display: none;
+      }
+      ul li a{
+         display:block;
+         background-color: rgb(88, 85, 88);
+         padding: 10px;
+         text-decoration: none;
+         color: rgb(132, 149, 134);
+         width: 100px;
+
+      }
+      ul li a:hover{
+          background-color: rgb(16, 150, 76);
+
+      }
+      li:hover ul{
+         float: block;
+         position:absolute;
+      }
+      li:hover li{
+         float: none;
+      }
+      </style>
+      </head>
+
+
+      
+
+   
+  
+   <body>
+      <ul>
+         <li><a href="#">country</a></li>
+         <li><a href="#">popullation</a></li>
+         <ul>
+            <li><a href="">facebook</a></li>
+            <li><a href="">twitter</a></li>
+            <li><a href="">instagram</a></li>
+         </ul>
+      </li>
+      <li><a href="#">gallery</a></li>
+      <li><a href="#">about us</a></li>
+   </ul>
+     <button>click me</button>
+      
+   </body>
+   </html>
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

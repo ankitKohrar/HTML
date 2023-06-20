@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <title>learn js</title>
+</head>
+        <body>
+     <DIV>solve the problem <br>result = (4 + 5) / 14 - 20 * (45 * 100) + 34 - 23 * (45 + 2 + 0 + (4 * 5)}
+    <p id ="text"></p>
+    <button onclick="mywork()">click here</button>
+    <script>
+        function mywork(){
+            numbers = (4 + 5) / 14 - 20 * (45 * 100) + 34 - 23 * (45 + 2 + 0 + (4 * 5))
+        
+        }
+            
+    </script>
+    </body>
+    </html>
